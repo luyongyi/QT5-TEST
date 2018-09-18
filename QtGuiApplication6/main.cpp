@@ -5,6 +5,6 @@ int main(int argc, char *argv[])
 {
 	QApplication a(argc, argv);
 	QtGuiApplication6 w;
-	w.show();//trytopush
+	w.show();//trytopush   µÚ¶þ´Î
 	return a.exec();
 }
